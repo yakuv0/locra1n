@@ -9,6 +9,7 @@ took a look at the checkra1n status recently which revealed issues in installati
 ## installation
 - jailbreak with checkra1n
 - ssh via usb:
+
   iproxy 4444 44
   
   scp -P4444 strap.sh strap.tar pkgstrap.tar.lzma root@localhost:~
