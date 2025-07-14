@@ -1,4 +1,4 @@
-# checkra1n no internet no problem
+# checkra1n no internet no issue
 took a look at the checkra1n status recently which revealed issues in installation, upgrading and strapping due to repo's being offline and unmaintained, sharing the script written during my research on mobility in multimedia production (mip) within conflict territories, the script was written to prevent connectivity barriers from jailbreaking.
 
 ## requirements
