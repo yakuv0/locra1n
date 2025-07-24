@@ -1,10 +1,17 @@
 # checkra1n no internet no issue
-took a look at the checkra1n status recently which revealed issues in installation, upgrading and strapping due to repo's being offline and unmaintained, sharing the script written during my research on mobility in multimedia production (mip) within conflict territories, the script was written to prevent connectivity barriers from jailbreaking.
+locra1n a script with a configured strap for offline installation of the checkra1n jailbreak.
+
+It was created during research on mobility within conflict territories (mip-mobility in production) to assist in the initiation of artistic and cultural projects.
+
 
 ## requirements
 - checkra1n
 - ssh
 - iproxy
+
+## download
+cloning repo via git results in empty tar, download instead:
+https://github.com/yakuv0/locra1n/archive/refs/heads/main.zip
 
 ## installation
 - jailbreak with checkra1n
